@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrudApp</string>
+    <string name="title">User Profile</string>
+    <string name="hintName">Enter Name</string>
+    <string name="hintBirth">Enter Birth</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+</resources>
